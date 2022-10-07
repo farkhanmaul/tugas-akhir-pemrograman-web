@@ -8,7 +8,7 @@
 </head>
 <body>
   <div class="box">
-    <h2>FORMULIR PENERIMA BANTUAN SOSIAL</h2>
+    <h2>FORM PENERIMA BANTUAN SOSIAL</h2>
     <form action="config.php">
       <div class="input-box">
         <input type="text" name="nama"  autocomplete="off" required>
